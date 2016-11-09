@@ -1,0 +1,135 @@
+{
+  "cars": [{
+    "year": 2006,
+    "make": "Nissan",
+    "model": "Rogue",
+    "color": "Rising Sun",
+    "interiorColor": "Sand Dune",
+    "interiorMaterial": "Leather",
+    "price": 8999,
+    "mileage": 24789,
+    "inventoryNum": "nr2006rsl01",
+    "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+  }, {
+    "year": 1996,
+    "make": "Mazda",
+    "model": "MX-3",
+    "color": "Seafoam",
+    "interiorColor": "Shadow",
+    "interiorMaterial": "Cloth",
+    "price": 3599,
+    "mileage": 124134,
+    "inventoryNum": "mm1996ssc01",
+    "description": "Overpowered? You bet! Scream dangerously around in this six-speed two-door hatchback. The Original Blindspot"
+  }, {
+    "year": 1974,
+    "make": "Volkswagon",
+    "model": "Transporter",
+    "color": "Red",
+    "interiorColor": "Black",
+    "interiorMaterial": "Corinthian Leather",
+    "price": 6999,
+    "mileage": 119347,
+    "inventoryNum": "vt1974rcl01",
+    "description": "Are you a hippie? Are you tired of paying someone else to repair your car? Do it yourself!"
+  }, {
+    "year": 2014,
+    "make": "Honda",
+    "model": "Civic",
+    "color": "Classic Blue",
+    "interiorColor": "Peaceful",
+    "interiorMaterial": "Cloth",
+    "price": 23998,
+    "mileage": 27648,
+    "inventoryNum": "hc2014cbc01",
+    "description": "Drive what everyone else seems to drive. All Wheel Drive and full power. It's a steal!"
+  }, {
+    "year": 2008,
+    "make": "Nissan",
+    "model": "Versa",
+    "color": "Cloudy Sky",
+    "interiorColor": "Newsprint",
+    "interiorMaterial": "Cloth",
+    "price": 6999,
+    "mileage": 77895,
+    "inventoryNum": "nv2008csc01",
+    "description": "This car is a trooper. All power, all options. Won't let you down."
+  }, {
+    "year": 2018,
+    "make": "Tesla",
+    "model": "3",
+    "color": "Excelsion",
+    "interiorColor": "Roomy Grey",
+    "interiorMaterial": "Impervium",
+    "price": 42845,
+    "mileage": 120,
+    "inventoryNum": "t32018ei01",
+    "description": "This is a brnd new TeslaIII... Or 3.... or Three. 'In Soviet Russia, car drives YOU!' Git you one!"
+  }, {
+    "year": 2006,
+    "make": "Nissan",
+    "model": "Rogue",
+    "color": "Rising Sun",
+    "interiorColor": "Sand Dune",
+    "interiorMaterial": "Leather",
+    "price": 8999,
+    "mileage": 24789,
+    "inventoryNum": "nr2006rsl01",
+    "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+  }, {
+    "year": 1996,
+    "make": "Mazda",
+    "model": "MX-3",
+    "color": "Seafoam",
+    "interiorColor": "Shadow",
+    "interiorMaterial": "Cloth",
+    "price": 3599,
+    "mileage": 124134,
+    "inventoryNum": "mm1996ssc01",
+    "description": "Overpowered? You bet! Scream dangerously around in this six-speed two-door hatchback. The Original Blindspot"
+  }, {
+    "year": 1974,
+    "make": "Volkswagon",
+    "model": "Transporter",
+    "color": "Red",
+    "interiorColor": "Black",
+    "interiorMaterial": "Corinthian Leather",
+    "price": 6999,
+    "mileage": 119347,
+    "inventoryNum": "vt1974rcl01",
+    "description": "Are you a hippie? Are you tired of paying someone else to repair your car? Do it yourself!"
+  }, {
+    "year": 2014,
+    "make": "Honda",
+    "model": "Civic",
+    "color": "Classic Blue",
+    "interiorColor": "Peaceful",
+    "interiorMaterial": "Cloth",
+    "price": 23998,
+    "mileage": 27648,
+    "inventoryNum": "hc2014cbc01",
+    "description": "Drive what everyone else seems to drive. All Wheel Drive and full power. It's a steal!"
+  }, {
+    "year": 2008,
+    "make": "Nissan",
+    "model": "Versa",
+    "color": "Cloudy Sky",
+    "interiorColor": "Newsprint",
+    "interiorMaterial": "Cloth",
+    "price": 6999,
+    "mileage": 77895,
+    "inventoryNum": "nv2008csc01",
+    "description": "This car is a trooper. All power, all options. Won't let you down."
+  }, {
+    "year": 2018,
+    "make": "Tesla",
+    "model": "3",
+    "color": "Excelsion",
+    "interiorColor": "Roomy Grey",
+    "interiorMaterial": "Impervium",
+    "price": 42845,
+    "mileage": 120,
+    "inventoryNum": "t32018ei01",
+    "description": "This is a brnd new TeslaIII... Or 3.... or Three. 'In Soviet Russia, car drives YOU!' Git you one!"
+  }]
+}
